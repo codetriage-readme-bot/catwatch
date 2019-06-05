@@ -2,6 +2,7 @@
 [![Coveralls coverage status](https://img.shields.io/coveralls/zalando/catwatch.svg)](https://coveralls.io/r/zalando/catwatch)
 [![Apache 2](http://img.shields.io/badge/license-Apache%202-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Analytics](https://ga-beacon.appspot.com/UA-65266986-1/zalando/catwatch)](https://github.com/zalando/catwatch)
+[![Open Source Helpers](https://www.codetriage.com/zalando/catwatch/badges/users.svg)](https://www.codetriage.com/zalando/catwatch)
 
 
 # CatWatch
